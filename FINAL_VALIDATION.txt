@@ -1,0 +1,36 @@
+VEHICLE AI SYSTEM — FINAL REFINEMENT VALIDATION
+
+ACTUALLY EXECUTED IN BUILD ENVIRONMENT
+- PHP syntax: PASS — 49/49 PHP files passed php -l.
+- Python syntax: PASS — train_model.py and predict.py compiled successfully.
+- Random Forest retraining: PASS — cost, duration and delay models trained on 3,500 records.
+- Unseen model inference: PASS — a previously unseen Toyota model name produced all three predictions.
+- OneHotEncoder(handle_unknown="ignore"): CONFIRMED in training pipeline.
+- Local PHP href/action scan: PASS — 0 missing local PHP targets.
+- Local production image scan: PASS — 0 missing referenced image assets.
+- SQL required-table scan: PASS — all required tables present.
+- Full plate unique rule: PASS — composite (plate_prefix, plate_number).
+- Removed admin-edit-customer page: CONFIRMED absent.
+- Removed admin-edit-vehicle page: CONFIRMED absent.
+- Old screenshot-derived production asset references: 0.
+- Primary packaged dataset record count: 3,500.
+
+LATEST TRAINING METRICS
+- Cost R²: 0.827146
+- Cost MAE: 29,663.71
+- Cost RMSE: 62,010.21
+- Duration R²: 0.759087
+- Duration MAE: 1.8817
+- Duration RMSE: 2.5877
+- Delay R²: 0.816301
+- Delay MAE: 7.3144
+- Delay RMSE: 9.0445
+
+NOT EXECUTED IN THIS CONTAINER
+- Windows XAMPP Apache runtime.
+- Live MySQL CRUD/UAT click-through.
+- Browser console inspection against a running MySQL-backed site.
+- Pixel-by-pixel browser screenshots at every requested viewport.
+
+Those runtime checks must be completed once after placing the folder at:
+C:\xampp\htdocs\vehicle_service_prediction

@@ -1,0 +1,207 @@
+HIGH-FIDELITY RECONSTRUCTION FEATURE MATRIX
+Total sub-features: 204
+
+1. Premium navy/gold automotive theme
+2. Responsive layout
+3. Compact sticky navbar
+4. Vehicle AI brand lockup
+5. User account chip
+6. Unread notification badge
+7. Page loader animation
+8. Scroll reveal animation
+9. Card hover transition
+10. Gold button hover animation
+11. Customer registration
+12. Email uniqueness
+13. Password hashing
+14. Password confirmation
+15. Customer login
+16. Admin login
+17. Role-aware redirect
+18. Secure session regeneration
+19. Login error handling
+20. Login rate limiting
+21. Disabled-account protection
+22. Logout
+23. Forgot password
+24. Login-email consistency check
+25. Reset token generation
+26. Reset token expiry
+27. Reset password
+28. Change password
+29. Current password verification
+30. Edit profile
+31. View account information
+32. Read-only email
+33. Customer dashboard
+34. Welcome personalization
+35. New Prediction card
+36. Prediction History card
+37. Favorite Vehicles card
+38. Contact Support card
+39. System Guide
+40. Protected customer pages
+41. Passenger car only scope
+42. 11 supported brands
+43. Plate prefix input
+44. Plate numeric input
+45. Full plate uniqueness
+46. Manual model entry
+47. Unknown model support
+48. OneHotEncoder handle_unknown ignore
+49. Manufacture-year validation
+50. Mileage validation
+51. Service type selection
+52. Repair category selection
+53. AI cost prediction
+54. AI duration prediction
+55. AI delay prediction
+56. Python prediction integration
+57. PHP fallback prediction
+58. Random Forest cost model
+59. Random Forest duration model
+60. Random Forest delay model
+61. Prediction result page
+62. Vehicle summary
+63. Estimated cost metric
+64. Duration metric
+65. Delay metric
+66. Prediction disclaimer
+67. Save as favorite
+68. Prediction notification
+69. Prediction DB storage
+70. Vehicle DB storage
+71. Prediction details
+72. Repeat prediction
+73. Prediction history
+74. History search
+75. History service filter
+76. Delete individual history
+77. Delete all history
+78. Soft delete customer history
+79. PDF/print report
+80. Compare 2 predictions
+81. Compare 3 predictions
+82. Comparison cards
+83. Favorite storage
+84. Favorite list
+85. Favorite deletion
+86. One-click favorite prefill
+87. Reuse favorite vehicle
+88. Actual service feedback
+89. Actual service cost
+90. Actual service duration
+91. Accuracy rating
+92. Feedback comments
+93. Feedback update
+94. Admin feedback alert
+95. Notification center
+96. Prediction completed notification
+97. Admin reply notification
+98. Feedback reply notification
+99. System update notification
+100. Mark one read
+101. Mark all read
+102. Notification links
+103. Contact form
+104. Guest contact
+105. Support message storage
+106. My Messages
+107. Pending status
+108. Replied status
+109. View admin reply
+110. Admin support notification
+111. Admin message reply
+112. Reply notification
+113. Admin dashboard
+114. User counter
+115. Vehicle counter
+116. Prediction counter
+117. Message counter
+118. Animated counters
+119. Admin tool cards
+120. Recent prediction table
+121. Recent login activity
+122. Admin route protection
+123. User management
+124. Search users
+125. Filter user status
+126. View status
+127. View registration date
+128. Disable user
+129. Persistent disabled state
+130. Enable user
+131. Delete user
+132. No admin user editing
+133. Vehicle management
+134. Search vehicles
+135. Filter vehicle brand
+136. View owner
+137. Delete vehicle
+138. No admin vehicle editing
+139. Prediction management
+140. Search predictions
+141. Filter prediction brand
+142. Filter service type
+143. Filter date
+144. Prediction statistics
+145. Average cost
+146. Average duration
+147. Average delay
+148. Admin delete prediction
+149. Actual feedback management
+150. Actual-vs-predicted view
+151. Admin feedback reply
+152. Dataset CSV upload
+153. CSV validation
+154. Dataset replacement
+155. Upload history
+156. Record count
+157. Dataset versioning
+158. Active dataset tracking
+159. ML model management
+160. Cost R2
+161. Duration R2
+162. Delay R2
+163. MAE support
+164. RMSE support
+165. Last training date
+166. Dataset size
+167. Retrain model button
+168. Training history
+169. Model status
+170. Analytics dashboard
+171. Most predicted brand chart
+172. Most common service chart
+173. Average cost KPI
+174. Average duration KPI
+175. Average delay KPI
+176. Monthly statistics
+177. Prediction trends
+178. Chart.js interactivity
+179. Global admin search
+180. Global user search
+181. Global vehicle search
+182. Global prediction search
+183. Global message search
+184. System announcements
+185. Announcement broadcast
+186. Announcement history
+187. Audit activity
+188. SQL foreign keys
+189. Database indexes
+190. Vehicle model table
+191. Dataset upload table
+192. Model metrics table
+193. Training log table
+194. Login attempts table
+195. Sri Lanka timezone
+196. 3500-record dataset
+197. 11-brand dataset
+198. Multiple service types
+199. Three repair categories
+200. Brand-based cost patterns
+201. Joblib model persistence
+202. Train/test split
+203. Feature encoding pipeline
+204. Design screenshot archive

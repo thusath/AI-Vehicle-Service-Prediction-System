@@ -1,0 +1,12 @@
+{
+  "php_files_linted": 49,
+  "php_lint_passes": 49,
+  "missing_local_php_targets": [],
+  "missing_local_images": [],
+  "missing_required_tables": [],
+  "unique_plate_composite": true,
+  "admin_edit_customer_page_present": false,
+  "admin_edit_vehicle_page_present": false,
+  "old_screenshot_asset_refs": [],
+  "primary_dataset_records": 3500
+}

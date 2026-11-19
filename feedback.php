@@ -1,0 +1,1 @@
+<?php require_once 'db.php';require_login();$id=(int)($_GET['id']??0);go('prediction_feedback.php?id='.$id);?>
